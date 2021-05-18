@@ -3,7 +3,7 @@
 * In this project we are given two tasks. In the first task we are required apply the concept of sparse and dense optical flow on the given dataset. 
 * In the second task we are required develop a CNN model for classification of 9 different species of fishes. And a dataset has been provided for the same.
 ## Files
-* There are total five files in the folder. There are two python files problem1_part1.py and problem1_part2 for problem one, one python file problem2.ipynb, a pdf report file and one readme file.
+* There are total five files in the folder. There are two python files problem1_part1.py and problem1_part2 for problem one, for problem2 one python file problem2.ipynb, a pdf report file and one readme file.
 ## Dependancies For Problem 1
 * OpenCv
 * Numpy
