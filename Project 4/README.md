@@ -1,4 +1,4 @@
-# ENPM673 - Project2
+# ENPM673 - Project4
 ## Introduction
 * In this project we are given two tasks. In the first task we are required apply the concept of sparse and dense optical flow on the given dataset. 
 * In the second task we are required develop a CNN model for classification of 9 different species of fishes. And a dataset has been provided for the same.
